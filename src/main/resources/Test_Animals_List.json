@@ -1,0 +1,22 @@
+{
+  "carnivorous": [
+    {
+      "name": "Lion",
+      "count": 1
+    },
+    {
+      "name": "Tiger",
+      "count": 2
+    }
+  ],
+  "herbivorous": [
+    {
+      "name": "Pig",
+      "count": 2
+    },
+    {
+      "name": "Rhinoceros",
+      "count": 2
+    }
+  ]
+}

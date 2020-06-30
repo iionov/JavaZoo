@@ -1,0 +1,66 @@
+*********************
+..................
+Event:night
+..................
+Elephant спит, тк было событие night.SLEEP STATUS: true
+Elephant спит, тк было событие night.SLEEP STATUS: true
+Zebra спит, тк было событие night.SLEEP STATUS: true
+Lion спит, тк было событие night.SLEEP STATUS: true
+Bear спит, тк было событие night.SLEEP STATUS: true
+Bear спит, тк было событие night.SLEEP STATUS: true
+Wolf спит, тк было событие night.SLEEP STATUS: true
+*********************
+..................
+Event:thunder
+..................
+Elephant проснулся, тк было событие thunder. SLEEP STATUS: false
+Elephant шумит, тк было событие thunder. NOISE STATUS: true
+..................
+Event:herbivorous_make_noise
+..................
+Lion проснулся, тк было событие herbivorous_make_noise. SLEEP STATUS: false
+Lion шумит, тк было событие herbivorous_make_noise. NOISE STATUS: true
+Bear проснулся, тк было событие herbivorous_make_noise. SLEEP STATUS: false
+Bear шумит, тк было событие herbivorous_make_noise. NOISE STATUS: true
+Bear проснулся, тк было событие herbivorous_make_noise. SLEEP STATUS: false
+Bear шумит, тк было событие herbivorous_make_noise. NOISE STATUS: true
+Wolf проснулся, тк было событие herbivorous_make_noise. SLEEP STATUS: false
+Wolf шумит, тк было событие herbivorous_make_noise. NOISE STATUS: true
+Elephant проснулся, тк было событие thunder. SLEEP STATUS: false
+Elephant шумит, тк было событие thunder. NOISE STATUS: true
+..................
+Event:herbivorous_make_noise
+..................
+Lion шумит, тк было событие herbivorous_make_noise. NOISE STATUS: true
+Bear шумит, тк было событие herbivorous_make_noise. NOISE STATUS: true
+Bear шумит, тк было событие herbivorous_make_noise. NOISE STATUS: true
+Wolf шумит, тк было событие herbivorous_make_noise. NOISE STATUS: true
+Zebra проснулся, тк было событие thunder. SLEEP STATUS: false
+Zebra шумит, тк было событие thunder. NOISE STATUS: true
+..................
+Event:herbivorous_make_noise
+..................
+Lion шумит, тк было событие herbivorous_make_noise. NOISE STATUS: true
+Bear шумит, тк было событие herbivorous_make_noise. NOISE STATUS: true
+Bear шумит, тк было событие herbivorous_make_noise. NOISE STATUS: true
+Wolf шумит, тк было событие herbivorous_make_noise. NOISE STATUS: true
+Lion шумит, тк было событие thunder. NOISE STATUS: true
+Bear шумит, тк было событие thunder. NOISE STATUS: true
+Bear шумит, тк было событие thunder. NOISE STATUS: true
+Wolf шумит, тк было событие thunder. NOISE STATUS: true
+*********************
+..................
+Event:rain
+..................
+Субъект не знает что делать в случае rain
+*********************
+..................
+Event:feeding_animals
+..................
+Elephant поел и ведет себя тихо, тк было событие feeding_animals. NOISE STATUS:false
+Elephant поел и ведет себя тихо, тк было событие feeding_animals. NOISE STATUS:false
+Zebra поел и ведет себя тихо, тк было событие feeding_animals. NOISE STATUS:false
+Lion поел и ведет себя тихо, тк было событие feeding_animals. NOISE STATUS: false
+Bear поел и ведет себя тихо, тк было событие feeding_animals. NOISE STATUS: false
+Bear поел и ведет себя тихо, тк было событие feeding_animals. NOISE STATUS: false
+Wolf поел и ведет себя тихо, тк было событие feeding_animals. NOISE STATUS: false

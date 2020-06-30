@@ -1,0 +1,100 @@
+*********************
+..................
+Event:rain
+..................
+Субъект не знает что делать в случае rain
+*********************
+..................
+Event:rain
+..................
+Субъект не знает что делать в случае rain
+*********************
+..................
+Event:thunder
+..................
+Pig шумит, тк было событие thunder. NOISE STATUS: true
+..................
+Event:herbivorous_make_noise
+..................
+Lion шумит, тк было событие herbivorous_make_noise. NOISE STATUS: true
+Tiger шумит, тк было событие herbivorous_make_noise. NOISE STATUS: true
+Tiger шумит, тк было событие herbivorous_make_noise. NOISE STATUS: true
+Pig шумит, тк было событие thunder. NOISE STATUS: true
+..................
+Event:herbivorous_make_noise
+..................
+Lion шумит, тк было событие herbivorous_make_noise. NOISE STATUS: true
+Tiger шумит, тк было событие herbivorous_make_noise. NOISE STATUS: true
+Tiger шумит, тк было событие herbivorous_make_noise. NOISE STATUS: true
+Rhinoceros шумит, тк было событие thunder. NOISE STATUS: true
+..................
+Event:herbivorous_make_noise
+..................
+Lion шумит, тк было событие herbivorous_make_noise. NOISE STATUS: true
+Tiger шумит, тк было событие herbivorous_make_noise. NOISE STATUS: true
+Tiger шумит, тк было событие herbivorous_make_noise. NOISE STATUS: true
+Rhinoceros шумит, тк было событие thunder. NOISE STATUS: true
+..................
+Event:herbivorous_make_noise
+..................
+Lion шумит, тк было событие herbivorous_make_noise. NOISE STATUS: true
+Tiger шумит, тк было событие herbivorous_make_noise. NOISE STATUS: true
+Tiger шумит, тк было событие herbivorous_make_noise. NOISE STATUS: true
+Lion шумит, тк было событие thunder. NOISE STATUS: true
+Tiger шумит, тк было событие thunder. NOISE STATUS: true
+Tiger шумит, тк было событие thunder. NOISE STATUS: true
+*********************
+..................
+Event:the zookeeper_is_here
+..................
+Pig шумит, тк было событие the zookeeper_is_here. NOISE STATUS: true
+Pig шумит, тк было событие the zookeeper_is_here. NOISE STATUS: true
+Rhinoceros шумит, тк было событие the zookeeper_is_here. NOISE STATUS: true
+Rhinoceros шумит, тк было событие the zookeeper_is_here. NOISE STATUS: true
+Lion шумит, тк было событие the zookeeper_is_here. NOISE STATUS: true
+Tiger шумит, тк было событие the zookeeper_is_here. NOISE STATUS: true
+Tiger шумит, тк было событие the zookeeper_is_here. NOISE STATUS: true
+*********************
+..................
+Event:thunder
+..................
+Pig шумит, тк было событие thunder. NOISE STATUS: true
+Pig шумит, тк было событие thunder. NOISE STATUS: true
+Rhinoceros шумит, тк было событие thunder. NOISE STATUS: true
+Rhinoceros шумит, тк было событие thunder. NOISE STATUS: true
+Lion шумит, тк было событие thunder. NOISE STATUS: true
+Tiger шумит, тк было событие thunder. NOISE STATUS: true
+Tiger шумит, тк было событие thunder. NOISE STATUS: true
+*********************
+..................
+Event:night
+..................
+Pig SLEEP STATUS: false
+Pig SLEEP STATUS: false
+Rhinoceros SLEEP STATUS: false
+Rhinoceros SLEEP STATUS: false
+Lion SLEEP STATUS: false
+Tiger SLEEP STATUS: false
+Tiger SLEEP STATUS: false
+*********************
+..................
+Event:thunder
+..................
+Pig шумит, тк было событие thunder. NOISE STATUS: true
+Pig шумит, тк было событие thunder. NOISE STATUS: true
+Rhinoceros шумит, тк было событие thunder. NOISE STATUS: true
+Rhinoceros шумит, тк было событие thunder. NOISE STATUS: true
+Lion шумит, тк было событие thunder. NOISE STATUS: true
+Tiger шумит, тк было событие thunder. NOISE STATUS: true
+Tiger шумит, тк было событие thunder. NOISE STATUS: true
+*********************
+..................
+Event:thunder
+..................
+Pig шумит, тк было событие thunder. NOISE STATUS: true
+Pig шумит, тк было событие thunder. NOISE STATUS: true
+Rhinoceros шумит, тк было событие thunder. NOISE STATUS: true
+Rhinoceros шумит, тк было событие thunder. NOISE STATUS: true
+Lion шумит, тк было событие thunder. NOISE STATUS: true
+Tiger шумит, тк было событие thunder. NOISE STATUS: true
+Tiger шумит, тк было событие thunder. NOISE STATUS: true
